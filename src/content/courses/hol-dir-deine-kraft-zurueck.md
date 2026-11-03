@@ -4,7 +4,7 @@ subtitle: "Selflove · Selfcare · Balance · Körperbewusstsein"
 description: "Ich leite Frauen liebevoll an wieder in ihre Kraft zu kommen - zurück zu ihrem Kern, zurück zu sich."
 featured: true
 provider: "VHS Niebüll"
-bookingUrl: "https://www.vhs-niebuell.de/kurssuche/kurs/Hol-Dir-Deine-Kraft-zurueck--selfcare-selflove-fuer-Frauen-ab-40/W1863"
+bookingUrl: "https://www.vhs-niebuell.de/kurssuche/kurs/Hol-Dir-Deine-Kraft-zurueck--selfcare-selflove-fuer-Frauen-ab-40/W1866"
 flyer: "/assets/flyer-hol-dir-deine-kraft-zurueck.png"
 flyerAlt: "Flyer Hol Dir Deine Kraft zurück - Selflove und Selfcare für Frauen 40+ bei der VHS Niebüll"
 order: 1
